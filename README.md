@@ -1,2 +1,0 @@
-# Cyber-Pulse-EGL
-ORG
